@@ -3,13 +3,13 @@
 This project has been created using **webpack-cli**, you can now run
 
 ```
-npm run build
+npm run dev
 ```
 
 or
 
 ```
-yarn build
+yarn dev
 ```
 
-to bundle your application
+to run the application
